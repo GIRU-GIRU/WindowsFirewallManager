@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SteamFirewall": {
+      "commandName": "Project",
+      "commandLineArgs": "block\r\n",
+      "nativeDebugging": true
+    }
+  }
+}
