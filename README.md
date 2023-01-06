@@ -1,11 +1,18 @@
 # WindowsFirewallManager
 
-Easily toggle an applications access to the internet painlessly. 
+Easily toggle an applications access to the internet painlessly.  
+wfm help for a list of commands
 
-wfm help
+//////////////////////   
+//// quickguide ////  
+//////////////////////  
 
-quickguide
-wfm add c:\program.exe
-wfm add c:\otherprogram.exe
-wfm block
-wfm unblock
+wfm add c:\program.exe  
+wfm add c:\otherprogram.exe  
+wfm block  
+wfm unblock  
+
+
+
+
+
